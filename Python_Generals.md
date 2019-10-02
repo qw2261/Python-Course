@@ -1,6 +1,6 @@
-- [[Python通用编程](https://zhuanlan.zhihu.com/p/52105623)](#-python------https---zhuanlanzhihucom-p-52105623-)
+- [[Python通用编程](https://zhuanlan.zhihu.com/p/52105623)]
   * [基础入门](#----)
-  * [1. [用户交互](https://zhuanlan.zhihu.com/p/62980620)](#1--------https---zhuanlanzhihucom-p-62980620-)
+  * [1. [用户交互](https://zhuanlan.zhihu.com/p/62980620)]
   * [2. [流程控制](https://zhuanlan.zhihu.com/p/48114932)](#2--------https---zhuanlanzhihucom-p-48114932-)
   * [3. [数据类型](https://zhuanlan.zhihu.com/p/49326997)](#3--------https---zhuanlanzhihucom-p-49326997-)
   * [4. [字符编码](https://zhuanlan.zhihu.com/p/49327051)](#4--------https---zhuanlanzhihucom-p-49327051-)

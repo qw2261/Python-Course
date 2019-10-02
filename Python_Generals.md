@@ -1,12 +1,12 @@
 - [[Python通用编程](https://zhuanlan.zhihu.com/p/52105623)]
   * [基础入门](#----)
   * [1. [用户交互](https://zhuanlan.zhihu.com/p/62980620)]
-  * [2. [流程控制](https://zhuanlan.zhihu.com/p/48114932)](#2--------https---zhuanlanzhihucom-p-48114932-)
-  * [3. [数据类型](https://zhuanlan.zhihu.com/p/49326997)](#3--------https---zhuanlanzhihucom-p-49326997-)
-  * [4. [字符编码](https://zhuanlan.zhihu.com/p/49327051)](#4--------https---zhuanlanzhihucom-p-49327051-)
-  * [5. [文件处理](https://zhuanlan.zhihu.com/p/49326914)](#5--------https---zhuanlanzhihucom-p-49326914-)
+  * [2. [流程控制](https://zhuanlan.zhihu.com/p/48114932)]
+  * [3. [数据类型](https://zhuanlan.zhihu.com/p/49326997)]
+  * [4. [字符编码](https://zhuanlan.zhihu.com/p/49327051)]
+  * [5. [文件处理](https://zhuanlan.zhihu.com/p/49326914)]
   * [函数对象](#----)
-  * [6. [函数概述](https://zhuanlan.zhihu.com/p/50074489)](#6--------https---zhuanlanzhihucom-p-50074489-)
+  * [6. [函数概述](https://zhuanlan.zhihu.com/p/50074489)]
   * [7. [闭包函数](https://zhuanlan.zhihu.com/p/50076084)](#7--------https---zhuanlanzhihucom-p-50076084-)
   * [8. [迭代生成](https://zhuanlan.zhihu.com/p/51814156)](#8--------https---zhuanlanzhihucom-p-51814156-)
   * [9. [合并表达](https://zhuanlan.zhihu.com/p/51884289)](#9--------https---zhuanlanzhihucom-p-51884289-)
@@ -29,7 +29,7 @@
   * [22. [进程并发](https://zhuanlan.zhihu.com/p/54491860)](#22--------https---zhuanlanzhihucom-p-54491860-)
   * [23. [线程并发](https://zhuanlan.zhihu.com/p/54990081)](#23--------https---zhuanlanzhihucom-p-54990081-)
   * [24. [协程控制](https://zhuanlan.zhihu.com/p/54990154)](#24--------https---zhuanlanzhihucom-p-54990154-)
-  * [25. [I/O 模型](https://zhuanlan.zhihu.com/p/54990215)](#25--i-o-----https---zhuanlanzhihucom-p-54990215-)
+  * [25. [I/O 模型](https://zhuanlan.zhihu.com/p/54990215)]
 
 
 
